@@ -1,0 +1,27 @@
+AVINASH M
+Senior Software Engineer
+
+PROFILE SUMMARY
+Passionate software engineer with experience in building scalable enterprise
+applications and cloud-based solutions. Experienced in designing, developing,
+and maintaining enterprise-grade applications.
+
+TECHNICAL EXPERTISE
+- ASP.NET Core and .NET
+- C#
+- React
+- GraphQL
+- MongoDB
+- Redis
+- Microsoft Azure
+- Snowflake
+- SQL Server
+
+ENGINEERING FOCUS
+Solving complex problems and building high-quality software solutions.
+
+ABOUT THIS DOWNLOAD
+This is a profile summary based on the information currently provided, not a
+full employment resume. Employer names, employment dates, project case studies,
+certification details, education, and direct contact details have not yet been
+provided and are intentionally omitted.
